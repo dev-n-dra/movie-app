@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/movie-app/static/css/main.55fa6d3a.chunk.css",
+    "main.js": "/movie-app/static/js/main.15b1b963.chunk.js",
+    "main.js.map": "/movie-app/static/js/main.15b1b963.chunk.js.map",
+    "runtime-main.js": "/movie-app/static/js/runtime-main.c8ce1b4c.js",
+    "runtime-main.js.map": "/movie-app/static/js/runtime-main.c8ce1b4c.js.map",
+    "static/js/2.3cdddf60.chunk.js": "/movie-app/static/js/2.3cdddf60.chunk.js",
+    "static/js/2.3cdddf60.chunk.js.map": "/movie-app/static/js/2.3cdddf60.chunk.js.map",
+    "index.html": "/movie-app/index.html",
+    "static/css/main.55fa6d3a.chunk.css.map": "/movie-app/static/css/main.55fa6d3a.chunk.css.map",
+    "static/js/2.3cdddf60.chunk.js.LICENSE.txt": "/movie-app/static/js/2.3cdddf60.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/movie-app/static/media/PlusJakartaSans-Regular.2a7bb451.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8ce1b4c.js",
+    "static/js/2.3cdddf60.chunk.js",
+    "static/css/main.55fa6d3a.chunk.css",
+    "static/js/main.15b1b963.chunk.js"
+  ]
+}
